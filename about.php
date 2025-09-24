@@ -46,7 +46,6 @@ header('Content-Type: text/html;charset='.$encoding);
 	<center>
 	<h1><?= tr('about_what_is_frogfindplus_t'); ?></h1>
     </center>
-    <br>
     <h3><?= tr('about_frogfindplus_whats_difference_q'); ?></h3>
     <?= tr('about_frogfindplus_whats_difference_a'); ?>
     <h3><?= tr('about_frogfindplus_who_translated_q'); ?></h3>
