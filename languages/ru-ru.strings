@@ -26,7 +26,7 @@
 "about_frogfindplus_whats_difference_q" = "Чем отличается FrogFindPlus от обычной FrogFind?";
 "about_frogfindplus_whats_difference_a" = "FrogFindPlus - прямое ответление (форк) оригинального FrogFind. Он отличается поддержкой локализации (за это спасибо <a href=\"http://veselcraft.ru\">Веселкрафту</a>). Скоро может быть добавлена базовая поддержка CSS и некоторых улучшений.";
 "about_frogfindplus_who_translated_q" = "Кто перевёл FrogFind на другие языки, включая русский?";
-"about_frogfindplus_who_translated_a" = "FrogFind частично был переведен Владимиром Бариновым (известен под псевдонимом <a href=\"http://veselcraft.ru\">Veselcraft</a>. Впоследствии, перевод был мной (точнее <a href=\"http://tinelix.ru\">автором форка</a>) улучшен.";
+"about_frogfindplus_who_translated_a" = "FrogFind частично был переведен Владимиром Бариновым (известен под псевдонимом <a href=\"http://veselcraft.ru\">Veselcraft</a>). Впоследствии, перевод был мной (точнее <a href=\"http://tinelix.ru\">автором форка</a>) улучшен.";
 "about_frogfindplus_does_have_source_q" = "У FrogFindPlus есть исходный код?";
 "about_frogfindplus_does_have_source_a" = "Да, как и <a href=\"https://github.com/ActionRetro/FrogFind\">FrogFind</a>, у нашего форка есть исходный код на GitHub - <a href=\"https://github.com/tinelix/FrogFindPlus\">github.com/tinelix/FrogFindPlus</a>. К сожалению, вам придется заходить по ссылке на современных компьютерах, но вы можете воспользоваться локальным прокси-сервером и посмотреть исходный код через Git.";
 
@@ -40,6 +40,7 @@
 "error_fail_to_fetch" = "Не удалось выполнить поиск, извините :c";
 "error_not_webpage" = "Это не веб-страница :(";
 "error_article_fail" = "Не получилось показать страницу :(";
+
 
 
 
