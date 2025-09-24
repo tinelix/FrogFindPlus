@@ -1,5 +1,19 @@
 <?php
+require_once('vendor/autoload.php');
 require_once('localization.php');
+
+// Locale things
+
+$locale = new UILocale;
+$encoding = $locale->trRaw('encoding', $_GET['lg']);
+
+function tr($string) {
+    global $locale;
+    global $encoding;
+    return mb_convert_encoding($locale->trRaw($string, $_GET['lg']), $encoding, 'UTF-8');
+}
+header('Content-Type: text/html;charset='.$encoding);
+
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 2.0//EN">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
