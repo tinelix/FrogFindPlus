@@ -1,5 +1,5 @@
 "encoding" = "ISO-8859-1";
-"author" = "Sean";
+"author" = "Sean (Action Retro), Dmitry Tretyakov (Tinelix)";
 
 "frogfind_description" = "The Search Engine for Vintage Computers";
 "leap_to" = "Leap to";
@@ -39,6 +39,7 @@
 "error_fail_to_fetch" = "Failed to get results, sorry :(";
 
 "error_not_webpage" = "That's not a web page :(";
+
 
 
 
