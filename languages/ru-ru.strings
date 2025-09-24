@@ -5,7 +5,7 @@
 "leap_to" = "Запрос";
 "ribbbit_button" = "Найти!";
 "footer_author" = "Сайт создан YouTube-каналом Action Retro";
-"footer_about" = "Зачем нужна эта штука? (на английском)";
+"footer_about" = "Зачем нужна эта штука?";
 "footer_powered" = "Работает с помощью DuckDuckGo";
 
 "search_results" = "Результаты поиска для запроса";
@@ -40,6 +40,7 @@
 "error_fail_to_fetch" = "Не удалось выполнить поиск, извините :c";
 "error_not_webpage" = "Это не веб-страница :(";
 "error_article_fail" = "Не получилось показать страницу :(";
+
 
 
 
