@@ -11,7 +11,7 @@
 "search_results" = "Search Results for";
 
 %{ About %}
-"about_what_is_q" = "What in the world is FrogFind?";
+"about_what_is_t" = "What in the world is FrogFind?";
 "about_faq_short_description" = "A quick FAQ on an unconventional search engine";
 "about_who_made_q" = "Who made FrogFind?";
 "about_who_made_a" = "Hi, I'm Sean, A.K.A. <a href=\"https://youtube.com/ActionRetro\">Action Retro</a> on YouTube. I work on a lot of 80's and 90's Macs (and other vintage machines), and I really like to try and get them online. However, the modern internet is not kind to old machines, which generally cannot handle the complicated javascript, CSS, and encryption that modern sites have. However, they can browse basic websites just fine. So I decided to see how much of the internet I could turn into basic websites, so that old machines can browse the modern internet once again!";
@@ -39,5 +39,6 @@
 "error_fail_to_fetch" = "Failed to get results, sorry :(";
 
 "error_not_webpage" = "That's not a web page :(";
+
 
 
