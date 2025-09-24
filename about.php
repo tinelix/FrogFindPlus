@@ -42,7 +42,7 @@ header('Content-Type: text/html;charset='.$encoding);
     <h3><?= tr('about_what_machines_do_you_test_q'); ?></h3>
     <?= tr('about_what_machines_do_you_test_a'); ?>
     <h3><?= tr('about_how_can_i_get_in_touch_q'); ?></h3>
-    <?= tr('about_what_machines_do_you_test_q'); ?>
+    <?= tr('about_what_machines_do_you_touch_a'); ?>
 	<center>
 	<h1><?= tr('about_what_is_frogfindplus_t'); ?></h1>
     </center>
