@@ -21,7 +21,7 @@
 "about_what_machines_do_you_test_q" = "На каких машинах вы тестировали FrogFind?";
 "about_what_machines_do_you_test_a" = "Я разработал FrogFind с учётом на классические Маки, так как я тестировал на своём SE/30, чтобы убедиться, что он выглядит хорошо в 1-битном цвете с разрешением 512x384. Большая часть моего тестирования проходила на Netscape 1.1N и 2.0.2, а также на некоторых версиях iCab для Mac 68k. FrogFind должен также хорошо работать в любых текстовых браузерах!";
 "about_how_can_i_get_in_touch_q" = "Как я могу к вам постучаться?";
-"about_how_can_i_get_in_touch_a" = "Пишите мне на почту! <a href=\"mailto:actionretro@pm.me\">actionretro@pm.me (письмо должно быть написано на английском языке)";
+"about_how_can_i_get_in_touch_a" = "Пишите мне на почту! <a href=\"mailto:actionretro@pm.me\">actionretro@pm.me</a> (письмо должно быть написано на английском языке)";
 "about_what_is_frogfindplus_t" = "Что из себя представляет FrogFindPlus?";
 "about_frogfindplus_whats_difference_q" = "Чем отличается FrogFindPlus от обычной FrogFind?";
 "about_frogfindplus_whats_difference_a" = "FrogFindPlus - прямое ответление (форк) оригинального FrogFind. Он отличается поддержкой локализации (за это спасибо <a href=\"http://veselcraft.ru\">Веселкрафту</a>). Скоро может быть добавлена базовая поддержка CSS и некоторых улучшений.";
@@ -40,6 +40,7 @@
 "error_fail_to_fetch" = "Не удалось выполнить поиск, извините :c";
 "error_not_webpage" = "Это не веб-страница :(";
 "error_article_fail" = "Не получилось показать страницу :(";
+
 
 
 
