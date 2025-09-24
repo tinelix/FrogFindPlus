@@ -1,5 +1,5 @@
 "encoding" = "Windows-1251";
-"author" = "Vladimir Barinov (veselcraft)";
+"author" = "Vladimir Barinov (veselcraft), Dmitry Tretyakov (Tinelix)";
 
 "frogfind_description" = "Поисковая система для винтажных компьютеров";
 "leap_to" = "Запрос";
@@ -40,6 +40,7 @@
 "error_fail_to_fetch" = "Не удалось выполнить поиск, извините :c";
 "error_not_webpage" = "Это не веб-страница :(";
 "error_article_fail" = "Не получилось показать страницу :(";
+
 
 
 
