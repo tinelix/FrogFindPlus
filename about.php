@@ -17,7 +17,7 @@
     <hr>
     <br>
     <center>
-    <h1><?= tr('about_what_is') ?></h1>
+    <h1><?= tr('about_what_is_t') ?></h1>
     <small><?= tr('about_faq_short_description') ?></small>
     </center>
     <br>
@@ -30,7 +30,7 @@
     <h3><?= tr('about_how_can_i_get_in_touch_q') ?></h3>
     <?= tr('about_what_machines_do_you_test_q') ?>
 	<center>
-	<h1><?= tr('about_what_is_frogfindplus_q') ?></h1>
+	<h1><?= tr('about_what_is_frogfindplus_t') ?></h1>
     </center>
     <br>
     <h3><?= tr('about_frogfindplus_whats_difference_q') ?></h3>
