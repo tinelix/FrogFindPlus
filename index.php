@@ -2,8 +2,12 @@
 require_once('vendor/autoload.php');
 require_once('localization.php');
 
-// Locale things
+$pconfig = \HTMLPurifier_Config::createDefault();
+$purifier = new \HTMLPurifier($pconfig);	
 
+global $purifier;
+
+// Locale things
 $locale = new UILocale;
 $encoding = $locale->trRaw('encoding', $_GET['lg']);
 
@@ -103,7 +107,7 @@ function clean_str($str) {
     <input type="submit" value="<?= tr('ribbbit_button') ?>">
     </center>
     <br><br><br>
-    <small><center><?= tr('footer_author') ?> | <a href="about.php<?php echo isset($_GET['lg']) ? "?lg=".$_GET['lg'] : ""; ?>"><?= tr('footer_about') ?></a></center><br>
+    <small><center><?= tr('footer_author') ?> | <a href="about.php<?php echo isset($_GET['lg']) ? "?lg=".$purifier->purify($_GET['lg']) : ""; ?>"><?= tr('footer_about') ?></a></center><br>
     <small><center><a href="?lg=en-us">English</a> | <a href="?lg=ru-ru">Russian</a></center></small>
     <small><center><?= tr('footer_powered') ?></center></small>
 </form>
