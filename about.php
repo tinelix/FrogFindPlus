@@ -29,5 +29,15 @@
     <?= tr('about_what_machines_do_you_test_a') ?>
     <h3><?= tr('about_how_can_i_get_in_touch_q') ?></h3>
     <?= tr('about_what_machines_do_you_test_q') ?>
+	<center>
+	<h1><?= tr('about_what_is_frogfindplus_q') ?></h1>
+    </center>
+    <br>
+    <h3><?= tr('about_frogfindplus_whats_difference_q') ?></h3>
+    <?= tr('about_frogfindplus_whats_difference_a') ?>
+    <h3><?= tr('about_frogfindplus_who_translated_q') ?></h3>
+    <?= tr('about_frogfindplus_who_translated_a') ?>
+    <h3><?= tr('about_frogfindplus_does_have_source_q') ?></h3>
+    <?= tr('about_frogfindplus_does_have_source_a') ?>
 </body>
 </html>
