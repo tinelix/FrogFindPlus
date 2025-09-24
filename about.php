@@ -17,7 +17,7 @@
     <hr>
     <br>
     <center>
-    <h1><?php tr('about_what_is_t'); ?></h1>
+    <h1><?php echo tr('about_what_is_t'); ?></h1>
     <small><?php tr('about_faq_short_description'); ?></small>
     </center>
     <br>
